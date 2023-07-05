@@ -1,0 +1,20 @@
+let expenses = [
+    {"itemName": "Smartphone", "category": "Electronics", "price": 799.99, "timestamp": "2023-06-01 09:12:34"},
+    {"itemName": "Headphones", "category": "Electronics", "price": 129.99, "timestamp": "2023-06-02 14:23:45"},
+    {"itemName": "T-shirt", "category": "Clothing", "price": 19.99, "timestamp": "2023-06-03 17:32:21"},
+    {"itemName": "Laptop", "category": "Electronics", "price": 1499.99, "timestamp": "2023-06-04 10:45:09"},
+    {"itemName": "Sneakers", "category": "Footwear", "price": 79.99, "timestamp": "2023-06-05 12:56:33"},
+    {"itemName": "TV", "category": "Electronics", "price": 999.99, "timestamp": "2023-06-06 16:14:27"},
+    {"itemName": "Dress", "category": "Clothing", "price": 49.99, "timestamp": "2023-06-07 11:27:52"},
+    {"itemName": "Gaming Console", "category": "Electronics", "price": 399.99, "timestamp": "2023-06-08 13:40:15"},
+    {"itemName": "Jeans", "category": "Clothing", "price": 39.99, "timestamp": "2023-06-09 08:51:48"},
+    {"itemName": "Smartwatch", "category": "Electronics", "price": 199.99, "timestamp": "2023-06-10 14:07:56"},
+    {"itemName": "Sandals", "category": "Footwear", "price": 29.99, "timestamp": "2023-06-11 16:20:02"},
+    {"itemName": "Hoodie", "category": "Clothing", "price": 59.99, "timestamp": "2023-06-12 09:32:39"},
+    {"itemName": "Tablet", "category": "Electronics", "price": 299.99, "timestamp": "2023-06-13 12:45:01"},
+    {"itemName": "Skirt", "category": "Clothing", "price": 34.99, "timestamp": "2023-06-14 15:52:18"},
+    {"itemName": "Bluetooth Speaker", "category": "Electronics", "price": 79.99, "timestamp": "2023-06-15 10:04:46"},
+    {"itemName": "Sunglasses", "category": "Accessories", "price": 49.99, "timestamp": "2023-06-16 13:15:53"},
+    {"itemName": "Running Shoes", "category": "Footwear", "price": 89.99, "timestamp": "2023-06-17 16:27:22"},
+    {"itemName": "Watch", "category": "Accessories", "price": 149.99, "timestamp": "2023-06-18 09:39:11"}]
+    module.exports = expenses
